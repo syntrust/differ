@@ -1,0 +1,17 @@
+input:
+ miner: 0x471977571aD818379E2b6CC37792a5EaC85FdE22
+ cutoff: 7200
+ diffAdjDivisor: 32
+ minimumDiff: 9437184
+ block: 6543124
+ blockTime: 1724243184
+ mixHash: 0xd2c65935c5fc39a515a0282c03ccd8a7879264ae01f697c89da2b0c6e3fa296d
+ nonce: 870911
+ kvIdxs: [3, 7]
+ sampleIdxsInKv: [993,2102]
+ shard: 0
+ lastMinedTime: 1724242128
+ difficulty: 71922272
+
+output:
+
